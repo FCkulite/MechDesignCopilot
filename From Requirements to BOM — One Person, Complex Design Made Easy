@@ -1,11 +1,175 @@
-🤖 MechDesignCopilot is the first AI skill specifically designed for mechanical engineering. It
-  provides comprehensive guidance from conceptual design to manufacturing documentation, covering
-  structural design, parametric calculations, 3D modeling, BOM generation, and mechatronics
-  integration.
+# MechDesignCopilot
 
-  ✨ Features:
-  - Full-process guidance (Requirements → Design → BOM)
-  - Confirmation-driven interaction (design partner, not generator)
-  - Layered output for all skill levels
-  - Mechatronics integration (mechanical + electrical)
-  - Complete templates and examples
+<div align="center">
+
+
+**From Requirements to BOM — One Person, Complex Design Made Easy**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/q991902018-sudo/MechDesignCopilot?style=social)](https://github.com/q991902018-sudo/MechDesignCopilot)
+
+[English](#english) | [中文](#中文)
+
+</div>
+
+---
+
+## English
+
+### 🎯 Overview
+
+**MechDesignCopilot** is the first AI skill specifically designed for mechanical engineering. It provides comprehensive guidance from conceptual design to manufacturing documentation, covering structural design, parametric calculations, 3D modeling, BOM generation, and mechatronics integration.
+
+Whether you're a student, engineer, or expert, this assistant adapts to your level and guides you through the complete design process.
+
+---
+
+### ✨ Key Features
+
+#### 🔄 **Full-Process Guidance**
+
+- **Requirements Analysis** → Define functional needs and performance specs
+- **Conceptual Design** → Generate and compare multiple schemes
+- **Detailed Calculations** → Strength verification, kinematic analysis, life assessment
+- **3D Modeling & Drawings** → Part modeling, assembly design, engineering drawings
+- **BOM & Manufacturing** → Generate BOM lists, cost estimation, supplier info
+
+#### 💬 **Confirmation-Driven Interaction**
+
+Not a "one-click generator" — it's a **design partner**. Every step confirms with you:
+
+- ✓ Requirements understanding correct?
+- ✓ Design scheme satisfied?
+- ✓ Calculation parameters reasonable?
+
+No more AI "guessing" — you stay in control.
+
+#### 📊 **Layered Output for All Levels**
+
+- **Students**: Detailed principles, formula derivations, step-by-step guidance
+- **Engineers**: Quick data lookup, formulas, standards — concise and practical
+- **Experts**: Deep verification, multi-scheme comparison, compliance checks
+
+#### 🔧 **Mechatronics Integration**
+
+- Mechanical structural design
+- Circuit design (sensors, actuators, controllers)
+- Component selection and procurement guidance
+- Software recommendations (CAD, CAE, PCB tools)
+
+---
+
+### 🚀 Use Cases
+
+| Scenario              | Traditional Way                        | With This Skill                            |
+| --------------------- | -------------------------------------- | ------------------------------------------ |
+| **Solo Engineer**     | Weeks of manual work                   | Complete in days                           |
+| **Student Project**   | Scattered resources, uncertain quality | Structured guidance, verified calculations |
+| **Small Team**        | Expensive consultants                  | Professional assistant at no cost          |
+| **Rapid Prototyping** | Iterations take forever                | Fast iterations with AI help               |
+
+---
+
+### 📦 What's Included
+
+```
+机械设计指导/
+├── SKILL.md                           # Core skill definition
+├── assets/                            # Document templates
+│   ├── mechanical-design-template.md  # Design document template
+│   ├── bom-template.md                # BOM list template
+│   └── calculation-sheet-template.md  # Calculation sheet template
+├── references/                        # Examples & references
+│   ├── mechatronics-design-example.md # Complete mechatronics example
+│   ├── software-recommendations.md    # Software guide
+│   └── mermaid-examples.md           # Diagram examples
+```
+
+---
+
+### 🏃 Quick Start
+
+#### Prerequisites
+
+- Claude Code or compatible AI assistant
+- Basic understanding of mechanical design
+
+#### Installation
+
+1. Copy this skill to your Claude skills directory:
+
+   ```bash
+   cp -r 机械设计指导 ~/.claude/skills/
+   ```
+
+2. Restart your Claude Code
+
+3. Start using it:
+
+   > "Help me design a linear motion system"
+   > "Calculate the motor size for my conveyor"
+   > "Generate a BOM for my robotic arm"
+
+---
+
+### 📚 Documentation
+
+- **[Design Document Template](assets/mechanical-design-template.md)** — Start your design with this template
+- **[BOM Template](assets/bom-template.md)** — Standardized BOM format
+- **[Calculation Sheet Template](assets/calculation-sheet-template.md)** — Verified calculation methods
+- **[Complete Example](references/mechatronics-design-example.md)** — Learn from a full project
+
+---
+
+### 🤝 Contributing
+
+Contributions are welcome! This is an open-source project, and community feedback makes it better.
+
+**How to Contribute**:
+
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+**Areas for Contribution**:
+
+- 🌍 **Localization** — Translate to other languages
+- 📖 **Examples** — Add more design examples
+- 🔧 **Templates** — Improve document templates
+- 🐛 **Bug Reports** — Report issues and suggest fixes
+
+---
+
+### 📊 Project Status
+
+- ✅ **Core Skill**: Complete
+- ✅ **Templates**: Complete
+- ✅ **Examples**: Complete
+- 🔄 **Community**: Growing — join us!
+
+---
+
+### ⭐ Show Your Support
+
+If you find this project helpful:
+
+- ⭐️ Star it on GitHub
+- 📢 Share it with your colleagues
+- 🤝 Contribute code or examples
+- 💬 Provide feedback
+
+---
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### 📮 Contact
+
+- 📧 Email: your.email@example.com
+- 🐙 GitHub: [yourusername](https://github.com/yourusername)
+- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/MechDesignCopilot/discussions)
