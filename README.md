@@ -155,12 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### 📮 Contact
-
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [yourusername](https://github.com/yourusername)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/MechDesignCopilot/discussions)
-
 ---
 
 ## 中文
@@ -305,11 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### 📮 联系方式
-
-- 📧 邮箱: your.email@example.com
-- 🐙 GitHub: [yourusername](https://github.com/yourusername)
-- 💬 讨论: [GitHub Discussions](https://github.com/yourusername/mechanical-design-helper/discussions)
 
 ---
 
@@ -318,3 +307,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by the Mechanical Design Community**
 
 </div>
+
